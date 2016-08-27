@@ -1,0 +1,15 @@
+E:\Repos\Monoroid\BlankApp\bin\Debug\BlankApp.dll
+E:\Repos\Monoroid\BlankApp\bin\Debug\BlankApp.pdb
+E:\Repos\Monoroid\BlankApp\bin\Debug\BlankApp.BlankApp.apk
+E:\Repos\Monoroid\BlankApp\bin\Debug\BlankApp.BlankApp-Signed.apk
+E:\Repos\Monoroid\BlankApp\obj\Debug\BlankApp.dll
+E:\Repos\Monoroid\BlankApp\obj\Debug\BlankApp.pdb
+E:\Repos\Monoroid\BlankApp\obj\Debug\android\bin\BlankApp.BlankApp.apk
+E:\Repos\Monoroid\BlankApp\obj\Debug\res\layout\main.xml
+E:\Repos\Monoroid\BlankApp\obj\Debug\res\values\strings.xml
+E:\Repos\Monoroid\BlankApp\obj\Debug\res\drawable\icon.png
+E:\Repos\Monoroid\BlankApp\obj\Debug\R.cs.flag
+E:\Repos\Monoroid\BlankApp\obj\Debug\uploadflags.txt
+E:\Repos\Monoroid\BlankApp\obj\Debug\BlankApp.csprojResolveAssemblyReference.cache
+E:\Repos\Monoroid\BlankApp\obj\Debug\BlankApp.dll.mdb
+E:\Repos\Monoroid\BlankApp\bin\Debug\BlankApp.dll.mdb
