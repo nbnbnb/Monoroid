@@ -28,7 +28,7 @@ namespace WebViewApp
             webView.SetWebViewClient(new HybridWebViewClient());
 
             // Render the view from the type generated from RazorView.cshtml
-            var model = new Model1() { Text = "Text goes here" };
+            var model = new TestModel() { Text = "Text goes here" };
             var template = new RazorView() { Model = model };
             var page = template.GenerateString();
 

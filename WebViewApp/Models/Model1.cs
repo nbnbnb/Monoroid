@@ -2,7 +2,7 @@
 
 namespace WebViewApp.Models
 {
-    public class Model1
+    public class TestModel
     {
         public string Text { get; set; }
     }

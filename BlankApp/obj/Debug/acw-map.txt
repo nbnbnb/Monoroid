@@ -1,4 +1,0 @@
-BlankApp.MainActivity, BlankApp;md54cbf0c1f0ea743d3aa9ff35274e7f4c4.MainActivity
-BlankApp.MainActivity, BlankApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54cbf0c1f0ea743d3aa9ff35274e7f4c4.MainActivity
-BlankApp.MainActivity;md54cbf0c1f0ea743d3aa9ff35274e7f4c4.MainActivity
-blankapp.MainActivity;md54cbf0c1f0ea743d3aa9ff35274e7f4c4.MainActivity

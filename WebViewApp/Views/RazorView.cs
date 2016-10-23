@@ -24,7 +24,7 @@ namespace WebViewApp.Views
 #line hidden
 
 #line 1 "RazorView.cshtml"
-        public Models.Model1 Model { get; set; }
+        public Models.TestModel Model { get; set; }
 
 #line default
 #line hidden
