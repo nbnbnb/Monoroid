@@ -55,7 +55,7 @@
     <None Include="web.config" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Models\Model1.cs" />
+    <Compile Include="Models\TestModel.cs" />
     <None Include="Views\RazorView.cshtml">
       <Generator>RazorTemplatePreprocessor</Generator>
       <LastGenOutput>RazorView.cs</LastGenOutput>
